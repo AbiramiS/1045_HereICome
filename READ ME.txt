@@ -1,0 +1,74 @@
+1. Name (Project heading) : 1045_HERE I COME..! – AN ANDROID APPLICATION
+
+2. Remote Centre ID (RC_ID) : 1045
+
+3. College / Institute Name : Saveetha Engineering College
+
+4. City, State, Pin Code : Thandalam,Tamil Nadu,Chennai 602105,
+
+5. Name/’s of the Student : Mr.S.Sasi kumar,M.E, M.B.A. (Ph.D) ,
+
+Team Members: PRABHU S, SURESH M, SURRAJ M	
+
+
+6. About (Short Description / Summary):
+
+	The aim of this project is to alert the user about a meeting, using an alarm and send user location as text message to the person to be met, in specific time intervals. The application uses a map for detecting user location and checking the destination location. This avoids unnecessary texting while driving and helps in improving road safety. Mobile phones have become a popular consumer product and a simple system that mutually benefits both the user and the person to be met, makes the process easier with the help of network and GPS technology.
+	There are three modules in this project, which are processing makes the location based alerting system an efficient and flexible application. Here the modules processed are working and performing tasks in easiest way. The followings are the modules of the project.
+	* SMS Sending Module
+	* Alarm Module
+	* Maps Module
+SMS module gets the phone number as input from the user and sends the current location of the user to that phone number using network carrier. Alarm module is used to call the in-built alarm clock for setting time for the event. Maps module is used to select the destination location and get directions to that location from the user’s current location. The map helps the user in giving location input and getting directions, thereby serving both purposes effectively.
+
+7. Install (Installation procedure): 
+
+1. CONTENTS OF THE Folder
+=======================
+
+	This Compact Disk contains the following files of total size 546 MB in various folders as specified in the following list.
+
+	2.1. PRESENTATION
+	2.2. PROJECT REPORT
+	2.3. PROJECT FILES & CODING
+	2.4. SOFTWARES
+	2.5. PAPERS
+
+1.1. PRESENTATION
+-----------------
+	Includes the Microsoft Powerpoint Presentation of the project. The presentations that were used during the Zeroth, First, Second and Third Reviews are also included.
+
+1.2. PROJECT REPORT
+-------------------
+	Includes the complete Project Report for the Android application. Can be accessed using Microsoft Word version 2007 or higher.
+
+1.3. PROJECT FILES & CODING
+---------------------------
+	Includes all the coding and executable files of the project. The front end coding is done using java and the interface is done using android xml.
+
+1.4. SOFTWARES
+--------------
+	Includes the softwares used for the development of the application. The ADT bundle contains Eclipse Software and Android SDK for Android application development. A latest update of Java development kit is a prerequisite of the software which is also included in the jdk folder. The phone emulator included in the package is used to test the application. Other applications like BlueStacks can also be used to test the application on a computer.
+
+1.5. PAPERS
+-----------
+	Contains a few reference papers that were used to get ideas and insights for developing the application. It also includes a few sample documents from the bibliography of the project.
+
+======================
+2. SYSTEM REQUIREMENTS
+======================
+
+	2.1. HARDWARE REQUIREMENTS
+	2.2. SOFTWARE REQUIREMENTS
+
+2.1. HARDWARE REQUIREMENTS
+--------------------------
+	Processor		:	1 GHz CPU
+	Memory		:	512MB RAM
+	MOBILE		:	ANDROID 2.3 (API level 9-Gingerbread) or above.
+
+2.2. SOFTWARE REQUIREMENTS
+--------------------------
+	Operating System		:WINDOWS XP SP2 or higher.
+	Front – End		:Android (Java & XML)
+	Open source Software	:Eclipse 3.5 with Android SDK & Phone emulator.
+
